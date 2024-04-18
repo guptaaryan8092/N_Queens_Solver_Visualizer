@@ -125,5 +125,5 @@ if __name__ == "__main__":
     # Define text tag configurations for styling
     app.output_text.tag_configure("solution", foreground="green")
     app.output_text.tag_configure("error", foreground="red")
-    root.mainloop()  # Run the Tkinter event loop
-//Created by Aryan Gupta
+    root.mainloop()  # Run the Tkinter event loop //Created by Aryan Gupta
+
