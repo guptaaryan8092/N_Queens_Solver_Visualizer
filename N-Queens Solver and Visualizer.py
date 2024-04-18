@@ -1,3 +1,4 @@
+//Created by Aryan Gupta
 import tkinter as tk
 class NQueensSolverGUI:
     # Inner class representing the N-Queens solver
@@ -125,3 +126,4 @@ if __name__ == "__main__":
     app.output_text.tag_configure("solution", foreground="green")
     app.output_text.tag_configure("error", foreground="red")
     root.mainloop()  # Run the Tkinter event loop
+//Created by Aryan Gupta
