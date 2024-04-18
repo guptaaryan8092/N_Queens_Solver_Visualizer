@@ -1,3 +1,4 @@
+//Created by Aryan Gupta
 import tkinter as tk
 class NQueensSolverGUI:
     # Inner class representing the N-Queens solver
@@ -120,7 +121,7 @@ class NQueensSolverGUI:
 # Main block to create the root window and run the application
 if __name__ == "__main__":
     root = tk.Tk()  # Create the Tkinter root window
-    app = NQueensSolverGUI(root)  # Create an instance of the NQueensSolverGUI
+    app = NQueensSolverGUI(root)  # Create an instance of the NQueensSolverGUI//Created by Aryan Gupta
     # Define text tag configurations for styling
     app.output_text.tag_configure("solution", foreground="green")
     app.output_text.tag_configure("error", foreground="red")
